@@ -17,7 +17,7 @@ Yearly and monthly sales trends
 
 The goal of this project was not only to compute numerical results but also to interpret them from a business perspective.
 
-**🛠 Tools & Libraries Used**
+**Tools & Libraries Used**
 
 Python
 
